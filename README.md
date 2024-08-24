@@ -1,2 +1,2 @@
 # Python
-Practicing automation using Python.
+Practicing automation concepts using Python.
