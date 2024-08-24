@@ -1,4 +1,4 @@
-Generate your own QR code for your website or any given link with easy 5steps,
+Generate your QR code for your website or any given link with easy 5 steps,
 
 #Step1
 
